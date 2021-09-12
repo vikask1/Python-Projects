@@ -121,7 +121,7 @@ A collection of resources to help you learn the basics and advanced concepts of 
 - [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python)
 - [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
 - [Free Python Books](https://github.com/pamoroso/free-python-books)
-- [WTF Python](https://github.com/charettes/wtfPython)
+- [WTF Python](https://github.com/satwikkansal/wtfPython)
 
 
 Credit :- [Nutshell-Machine-Learning](https://github.com/EdemGold/Nutshell-Machine-Learning)
