@@ -56,7 +56,7 @@ Here are the [resources](./resources) to get you started with the fundamentals o
 <tr><td>1o.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Palindrome-Number">Palindrome Number Checker</a></td><td><a href="https://github.com/sulavmhrzn"> Sulav Maharjan</a></td></tr>
 <tr><td>11.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Password-Hashing">Password Hashing</a></td><td><a href="https://github.com/Mannuel25"> Emmanuel Tanimowo</a></td></tr>
 <tr><td>12.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Password-Validator">Password Validator</a></td><td><a href="https://github.com/medaminefh"> Med Amine Fh</a></td></tr>
- 
+<tr><td>13.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/code-editor">Simple Python Code Editor GUI</a></td><td><a href="https://github.com/edemgold">Edem Gold</a></td></tr>
 </table>
 
 <br>
