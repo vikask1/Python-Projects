@@ -84,7 +84,7 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 
 Be the next to contribute and you'll see yourself in this chart!
 
-<!-- # 📝 Project Maintainers
+# 📝 Project Maintainers
 
 <table align=center>
 <tr>
@@ -100,7 +100,7 @@ Be the next to contribute and you'll see yourself in this chart!
 <a href="https://www.linkedin.com/in/gaurtvin/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
 
 </tr>
-</table> -->
+</table>
 
 <br>
 
