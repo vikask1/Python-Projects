@@ -9,5 +9,6 @@ This is a code editor built from scratch using the Tkinter Gui library.
 
 **Tkinter** is the only package to be installed and it is a follow come package of the python language
 
-## How to run
+# How to run
 You simply navigate to the projects directory on your teminal and type `py code-editor.py`
+
