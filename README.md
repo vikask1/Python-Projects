@@ -1,4 +1,4 @@
-# Python Projects {Open Source}
+# Python Projects
 
 ![GitHub](https://img.shields.io/badge/Contributions-Welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
@@ -6,10 +6,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/gaurtvin/python-projects)
 ![License](https://img.shields.io/github/license/gaurtvin/python-projects)
 
-<br>
-
-<!-- [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)]()
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) -->
+# Open-Source Python Projects by Contributors to Dev Community!
 
 ![](./images/cover-image.png)
 
@@ -84,11 +81,9 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 
 Be the next to contribute and you'll see yourself in this chart!
 
-<br>
+<!---# 📝 Project Maintainers
 
-# 📝 Project Maintainers
-
-<table align=center>
+ <table align=center>
 <tr>
 
 <td align="center"><a href="https://github.com/TanCodes">
@@ -102,12 +97,12 @@ Be the next to contribute and you'll see yourself in this chart!
 <a href="https://www.linkedin.com/in/gaurtvin/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
 
 </tr>
-</table>
+</table> --->
 
 <br>
 
 # License
 
-This repository is under an  [MIT](https://choosealicense.com/licenses/mit/) License.
+This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License.
 
 ### This project is under heavy development, you can also contribute by adding your project.
