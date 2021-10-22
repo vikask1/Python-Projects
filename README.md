@@ -1,4 +1,5 @@
-# Python Projects
+
+# Open-Source Python Projects by Contributors to Dev Community!
 
 ![GitHub](https://img.shields.io/badge/Contributions-Welcome-green)
 ![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
@@ -6,7 +7,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/gaurtvin/python-projects)
 ![License](https://img.shields.io/github/license/gaurtvin/python-projects)
 
-# Open-Source Python Projects by Contributors to Dev Community!
 
 ![](./images/template-image.png)
 
