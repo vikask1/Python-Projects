@@ -84,6 +84,8 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 
 Be the next to contribute and you'll see yourself in this chart!
 
+<br>
+
 # 📝 Project Maintainers
 
 <table align=center>
