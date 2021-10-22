@@ -1,39 +1,45 @@
-# Truecaller with Python 📱
+# Realcaller with Python 📱
 
-### This is a Desktop GUI app made with python Tkinter which tells the location and sim card data of that particular phone number.
+### This is a Desktop GUI app made with Python Tkinter which tells the location and sim card data of that particular phone number.
 
-You can also see my [YouTube](https://youtu.be/48xqzyYFwng) video on this same project for better understanding.
+You can also see [YouTube](https://youtu.be/48xqzyYFwng) video on this same project for better understanding.
 
 ![](https://ik.imagekit.io/tfme5aczhhf/images-for-github/truecall_d2RtHJEnoi.PNG)
 
 # Library Used
 
-- [ pip install phonenumbers](https://pypi.org/project/phonenumbers/)
+- [Phonenumbers](https://pypi.org/project/phonenumbers/)
 
 # How to run the code locally
 
 - Clone this Repository
 
 ```
-git clone "https://github.com/GDSC-RCCIIT/General-Purpose-Scripts"
+git clone "https://github.com/gaurtvin/Python-Projects.git"
 ```
 
 - Go to the Project directory
 
 ```
-cd scripts
+cd Python-Projects
 ```
 
-- Go to the Truecaller folder
+- Go to the Projects folder
 
 ```
-cd Truecaller
+cd projects
+```
+
+- Go to the Project folder
+
+```
+cd Realcaller
 ```
 
 - Run the following command
 
 ```
-python truecaller.py
+python realcaller.py
 ```
 
 # About The Author
@@ -51,4 +57,4 @@ I am Tanmay a Self-Taught Web and Python developer with a keen interest in Web D
 - <a href="https://www.behance.net/tanmaybrv" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tanmaybrv" height="20" width="20" /> Behance </a>
 - <a href="https://www.youtube.com/channel/UC370GTtJnvWs8wDH9UXoBzQ?view_as=subscriber" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tancodes" height="20" width="20" /> YouTube </a>
 
-Happy Coding!
+# Happy Coding!

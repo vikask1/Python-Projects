@@ -16,7 +16,7 @@ Option 6 handles all kinds of transactions the user can perform.
 Option 7 can be used to get a Mini-Statement of an account, containing the details of all transactions performed by the user in the form of a pdf file.
 Option 8 can be used to exit the application.
 
-MODULES USED:
+# Modules Used:
 
 Mysql.connector : MySQL Connector/ODBC (sometimes called just Connector/ODBC or MyODBC) is a driver for connecting to a MySQL database server through the Open Database Connectivity (ODBC) application program interface (API), which is the standard means of connecting to any database.
 
@@ -29,7 +29,7 @@ Fpdf module: FPDF is a library for pdf document generation under python. FPDF is
 
 # Prerequisites
 
-It requires no prerequisites, you only need to have a basic knowledge of Python and how to run the code in your terminal.
+It requires no prerequisites, you only need to have a little bit more knowledge of Python and how to run the code in your terminal.
 If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
 # Library Used
@@ -39,6 +39,6 @@ If you don't have Python installed, you can visit [here](https://www.python.org/
 * [Fpdf module](http://www.fpdf.org/en/doc/index.php)
 
 
- #Github Repo
- * [Abhishek Dasgupta](https://github.com/abhishekgit03)
+# Github Repo
+* [Abhishek Dasgupta](https://github.com/abhishekgit03)
 

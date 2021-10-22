@@ -1,4 +1,3 @@
-
 # Open-Source Python Projects by Contributors to Dev Community!
 
 <br>
@@ -18,7 +17,7 @@
 
 ![](./images/template-image.png)
 
-> We believe that Developing projects is more important than just learning theory. ✅ 
+> We believe that Developing projects is more important than just learning theory. ✅
 
 <br>
 
@@ -63,6 +62,13 @@ Here are the [resources](./resources) to get you started with the fundamentals o
 <tr><td>12.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Password-Validator">Password Validator</a></td><td><a href="https://github.com/medaminefh"> Emmanuel Tanimowo </a></td></tr>
 <tr><td>13.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/code-editor">Simple Python Code Editor GUI</a></td><td><a href="https://github.com/edemgold">Edem Gold</a></td></tr>
 <tr><td>14.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Space-Invaders">Space Invaders GUI</a></td><td><a href="https://github.com/gaurtvin">Gaurav Pandey</a></td></tr>
+<tr><td>15.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Bank-Management-Project">Bank Management System</td><td><a href="https://github.com/abhishekgit03"> Abhishek Dasgupta</a></td></tr>
+<tr><td>16.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Cards-Game">Cards Game</td><td><a href="https://github.com/paiyarohit"> Rohit Paiya</a></td></tr>
+<tr><td>17.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Quizminds">Quizminds GUI</td><td><a href="https://github.com/abhishekgit03"> Abhishek Dasgupta</a></td></tr>
+<tr><td>18.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Realcaller">Real Caller GUI</td><td><a href="https://github.com/TanCodes">Tanmay Barvi</a></td></tr>
+<tr><td>19.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Display-Calender">Calender GUI</td><td><a href="https://github.com/adarshgowdaa">A Adarsh</a></td></tr>
+<tr><td>20.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Notifier-Desktop-App">Notifier Desktop App</td><td><a href="https://github.com/TanCodes">Tanmay Barvi</a></td></tr>
+
 </table>
 
 <br>
@@ -111,4 +117,8 @@ Be the next to contribute and you'll see yourself in this chart!
 
 # License
 
-This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License.
+This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License. For any kind of broken link or anything with is not following please create a new with **invalid** label.
+
+<br>
+
+# Thanks, Happy Coding!
