@@ -8,7 +8,8 @@
 
 # Open-Source Python Projects by Contributors to Dev Community!
 
-![](./images/cover-image.png)
+![](./images/template-image.png)
+
 
 <br>
 
