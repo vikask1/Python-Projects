@@ -117,7 +117,7 @@ Be the next to contribute and you'll see yourself in this chart!
 
 # License
 
-This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License. For any kind of broken link or anything with is not following please create a new with **invalid** label.
+This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License. For any kind of broken link or anything with is not following please create a new issue with **invalid** label.
 
 <br>
 
