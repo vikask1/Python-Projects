@@ -1,15 +1,24 @@
 
 # Open-Source Python Projects by Contributors to Dev Community!
 
-![GitHub](https://img.shields.io/badge/Contributions-Welcome-green)
-![GitHub](https://img.shields.io/badge/PRs-Welcome-green)
-![GitHub contributors](https://img.shields.io/github/contributors/gaurtvin/python-projects)
-![GitHub Repo stars](https://img.shields.io/github/stars/gaurtvin/python-projects)
-![License](https://img.shields.io/github/license/gaurtvin/python-projects)
+<br>
 
+<p>
+    <img src="https://img.shields.io/badge/Contributions-Welcome-green" alt="GitHub" />
+    <img src="https://img.shields.io/github/issues-pr/gaurtvin/Python-Projects?label=Pull%20Request" alt="GitHub" />
+    <img src="https://img.shields.io/github/contributors/gaurtvin/python-projects?label=Contributors" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/stars/gaurtvin/python-projects?label=Stars" alt="GitHub Repo stars" />
+    <img src="https://img.shields.io/github/license/gaurtvin/python-projects?label=License" alt="License" />
+    <img src="https://img.shields.io/github/repo-size/gaurtvin/Python-Projects?label=Repository%20Size" alt="Size" />
+    <img src="https://img.shields.io/github/issues/gaurtvin/Python-Projects?label=Issues" alt="Issues" />
+    <img src="https://img.shields.io/badge/Maintainer-Gaurav%20%26%20Tanmay-brightgreen" alt="Maintainer" /> 
+</p>
+
+<br>
 
 ![](./images/template-image.png)
 
+> We believe that Developing projects is more important than just learning theory. ✅ 
 
 <br>
 
@@ -17,9 +26,7 @@
 
 The repository was built with a tree-like structure in mind, it contains collections of **Python Projects**. Most people are afraid of Good Projects, which keeps them from getting into Python programming. It's not true, anyone can learn Python, and we plan to make it happen. The repository is open to anyone, whether you are a beginner or an expert developer.
 
-<br>
-
-> We believe that Developing projects is more important than just learning theory. ✅
+### Please Follow Our [Contribution Guidelines](CONTRIBUTING.md) Strictly.
 
 <br>
 
@@ -68,7 +75,7 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 
 <br>
 
-## Our Contributors
+# Our Contributors
 
 <table style="border:none">
     <tr>
@@ -105,5 +112,3 @@ Be the next to contribute and you'll see yourself in this chart!
 # License
 
 This repository is under an [MIT](https://choosealicense.com/licenses/mit/) License.
-
-### This project is under heavy development, you can also contribute by adding your project.
