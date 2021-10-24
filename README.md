@@ -96,24 +96,6 @@ See our [Contribution Guidelines](CONTRIBUTING.md) to get started. Also please s
 
 Be the next to contribute and you'll see yourself in this chart!
 
-<!---# 📝 Project Maintainers
-
- <table align=center>
-<tr>
-
-<td align="center"><a href="https://github.com/TanCodes">
-<img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/64544882?v=4" width=150px height=150px /></a></br>
-<h4>Tanmay Barvi</h4>
-<a href=https://www.linkedin.com/in/tanmay-barvi-2a0206126/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-<td align="center"><a href="https://github.com/gaurtvin">
-<img  src="https://avatars.githubusercontent.com/u/78334545?v=4" width=150px height=150px  /></a></br>
-<h4>Gaurav Pandey</h4>
-<a href="https://www.linkedin.com/in/gaurtvin/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-
-</tr>
-</table> --->
-
 <br>
 
 # License
