@@ -39,7 +39,7 @@ cd Number-Guessing-Game
 - Run the following command
 
 ```
-python game.py
+python code.py
 ```
 
 # Sample use of the code

@@ -11,4 +11,3 @@ This is a code editor built from scratch using the Tkinter Gui library.
 
 # How to run
 You simply navigate to the projects directory on your teminal and type `py code-editor.py`
-

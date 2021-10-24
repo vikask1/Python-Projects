@@ -46,7 +46,7 @@ pip3 install bcrypt
 - Run the following command
 
 ```
-python main.py
+python code.py
 ```
 
 # Sample use of the code

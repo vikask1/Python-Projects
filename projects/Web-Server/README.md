@@ -38,5 +38,5 @@ cd simple-web-server
 - Run the following command
 
 ```
-python main.py
+python code.py
 ```

@@ -1,4 +1,4 @@
- #quizminds quiz application
+# Quizminds quiz application
 
 This application allows you to play a dynamic quiz having random questions.
 

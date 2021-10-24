@@ -44,7 +44,7 @@ cd  Password-Generators\Password-Generator-2
 - Run the following command
 
 ```
-python main.py
+python code.py
 ```
 
 # Sample use of the code

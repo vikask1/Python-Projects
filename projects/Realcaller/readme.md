@@ -39,7 +39,7 @@ cd Realcaller
 - Run the following command
 
 ```
-python realcaller.py
+python code.py
 ```
 
 # About The Author

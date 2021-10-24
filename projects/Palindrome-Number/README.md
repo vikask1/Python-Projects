@@ -39,7 +39,7 @@ cd Palindrome-Number
 - Run the following command
 
 ```
-python main.py
+python code.py
 ```
 
 

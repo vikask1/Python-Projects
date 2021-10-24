@@ -8,7 +8,7 @@ It requires no prerequisites, you only need to have a basic knowledge of Python 
 
 # Library Used
 
-* [Time](https://docs.python.org/3/library/time.html)
+- [Time](https://docs.python.org/3/library/time.html)
 
 # How to run the code locally
 
@@ -33,18 +33,18 @@ cd python-projects
 - Go to the Countdown-Timer folder
 
 ```
-cd Digital-Clock
+cd Countdown-Timer
 ```
 
 - Run the following command
+
 ```
-python timer.py
+python code.py
 ```
 
 # Sample use of the code
 
 ![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Countdown-Timer/screenshot_1.png)
-
 ![alt text](https://github.com/Mannuel25/python-projects/blob/master/projects/Countdown-Timer/screenshot_2.png)
 
 # Author's name

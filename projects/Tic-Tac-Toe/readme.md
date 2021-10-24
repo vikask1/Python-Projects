@@ -48,7 +48,7 @@ Make sure, you already installed **Python 3.8** or above versions. Now run the f
 
 - Run the following command
   ```
-  python tic_tac_toe.py
+  python code.py
   ```
 
 ### Now, I'm expecting this Output
@@ -59,6 +59,6 @@ Make sure, you already installed **Python 3.8** or above versions. Now run the f
 
 I am Tanmay a Self-Taught Web and Python developer with a keen interest in Web Development, Data Analytics, and Software development. I have experience using Python in various projects from last 2 years. Also, I'm a Open-Source contributor. You can catch me on [Twitter](https://twitter.com/TanCodes) and [LinkedIn](https://linkedin.com/in/tanmay-barvi-2a0206126).
 
-Any comments, suggestions or corrections are welcome. This repository is licensed under [MIT](https://opensource.org/licenses/MIT) License.
+Any comments, suggestions or corrections are welcome.
 
 ## Happy Coding!

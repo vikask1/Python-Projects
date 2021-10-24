@@ -1,23 +1,11 @@
-# Space Invaders
+# Simple Quote Bot
 
-This is a simple SPACE INVADER game create using PYGAME whihc have sound and lot's of keyboard functions.
-
-![](image.png)
+This is a simple quote bot which suggest a new quote which are store in quote.txt every time when you run the code.
 
 # Prerequisites
 
-- More Experience with Python Programming language.
-- PyGame
-
-## Library Used
-
-- [Python](https://www.pygame.org/news)
-
-Make sure, you already installed **Python 3.8** or above versions. Now run the following commands in your Terminal for installing libraries.
-
-```bash
-pip3 install pygame
-```
+- Little bit experience with Python programming language.
+- Very basic terminal commands.
 
 # How to run the code locally
 
@@ -42,7 +30,7 @@ cd projects
 - Go to the Rock-Paper-Scissors folder
 
 ```
-cd Space-Invaders
+cd Simple-Quote-Bot
 ```
 
 - Run the following command

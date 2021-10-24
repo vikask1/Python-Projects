@@ -17,28 +17,29 @@ bx7 = "7"
 bx8 = "8"
 bx9 = "9"
 
-a = Label(root, text=" Tanmay Barvi\n@TanCodes", bg="light blue",
-          justify="center").grid(row=3, column=1, sticky=S)
+a = Label(
+    root, text=" Tanmay Barvi\n@TanCodes", bg="light blue", justify="center"
+).grid(row=3, column=1, sticky=S)
 b1 = Button(root, text=" ", bg="ivory2", command=lambda: t(1))
-b1.grid(row='0', column="0", ipadx='40', ipady='30')
+b1.grid(row="0", column="0", ipadx="40", ipady="30")
 b2 = Button(root, text=" ", bg="ivory2", command=lambda: t(2))
-b2.grid(row='0', column="1", ipadx='40', ipady='30')
+b2.grid(row="0", column="1", ipadx="40", ipady="30")
 b3 = Button(root, text=" ", bg="ivory2", command=lambda: t(3))
-b3.grid(row='0', column="2", ipadx='40', ipady='30')
+b3.grid(row="0", column="2", ipadx="40", ipady="30")
 
 b4 = Button(root, text=" ", bg="ivory2", command=lambda: t(4))
-b4.grid(row='1', column="0", ipadx='40', ipady='30')
+b4.grid(row="1", column="0", ipadx="40", ipady="30")
 b5 = Button(root, text=" ", bg="ivory2", command=lambda: t(5))
-b5.grid(row='1', column="1", ipadx='40', ipady='30')
+b5.grid(row="1", column="1", ipadx="40", ipady="30")
 b6 = Button(root, text=" ", bg="ivory2", command=lambda: t(6))
-b6.grid(row='1', column="2", ipadx='40', ipady='30')
+b6.grid(row="1", column="2", ipadx="40", ipady="30")
 
 b7 = Button(root, text=" ", bg="ivory2", command=lambda: t(7))
-b7.grid(row='2', column="0", ipadx='40', ipady='30')
+b7.grid(row="2", column="0", ipadx="40", ipady="30")
 b8 = Button(root, text=" ", bg="ivory2", command=lambda: t(8))
-b8.grid(row='2', column="1", ipadx='40', ipady='30')
+b8.grid(row="2", column="1", ipadx="40", ipady="30")
 b9 = Button(root, text=" ", bg="ivory2", command=lambda: t(9))
-b9.grid(row='2', column="2", ipadx='40', ipady='30')
+b9.grid(row="2", column="2", ipadx="40", ipady="30")
 
 player = 1
 
@@ -142,12 +143,30 @@ def t(box):
         bx9 = "X"
     #######################################
 
-    if bx1 == bx2 == bx3 == "X" or bx4 == bx5 == bx6 == "X" or bx7 == bx8 == bx9 == "X" or bx1 == bx5 == bx9 == "X" or bx3 == bx5 == bx7 == "X" or bx1 == bx4 == bx7 == "X" or bx2 == bx5 == bx8 == "X" or bx3 == bx6 == bx9 == "X":
+    if (
+        bx1 == bx2 == bx3 == "X"
+        or bx4 == bx5 == bx6 == "X"
+        or bx7 == bx8 == bx9 == "X"
+        or bx1 == bx5 == bx9 == "X"
+        or bx3 == bx5 == bx7 == "X"
+        or bx1 == bx4 == bx7 == "X"
+        or bx2 == bx5 == bx8 == "X"
+        or bx3 == bx6 == bx9 == "X"
+    ):
         player = "X"
         messagebox._show("Game end  ", "Player " + player + "  Won")
         exit(0)
 
-    if bx1 == bx2 == bx3 == "O" or bx4 == bx5 == bx6 == "O" or bx7 == bx8 == bx9 == "O" or bx1 == bx5 == bx9 == "O" or bx3 == bx5 == bx7 == "O" or bx1 == bx4 == bx7 == "O" or bx2 == bx5 == bx8 == "O" or bx3 == bx6 == bx9 == "O":
+    if (
+        bx1 == bx2 == bx3 == "O"
+        or bx4 == bx5 == bx6 == "O"
+        or bx7 == bx8 == bx9 == "O"
+        or bx1 == bx5 == bx9 == "O"
+        or bx3 == bx5 == bx7 == "O"
+        or bx1 == bx4 == bx7 == "O"
+        or bx2 == bx5 == bx8 == "O"
+        or bx3 == bx6 == bx9 == "O"
+    ):
         player = "O"
         messagebox._show("Game end  ", "Player " + player + "   Won")
         exit(0)

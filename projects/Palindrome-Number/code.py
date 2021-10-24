@@ -7,6 +7,7 @@ def palindrome(num: int) -> str:
         f"{num} is a palindrome" if (num[::-1]) == num else f"{num} is not a palindrome"
     )
 
+
 if __name__ == "__main__":
     usr_inp = input("Enter a number or string to check if palindrome: ")
     print(palindrome(usr_inp))

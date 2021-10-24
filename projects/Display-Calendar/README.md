@@ -37,7 +37,7 @@ cd Display-Calendar
 
 - Run the following command
 ```
-python Display_Calendar.py
+python code.py
 ```
 
 # Author's name
