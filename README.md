@@ -70,6 +70,7 @@ Here are the [resources](./resources) to get you started with the fundamentals o
 <tr><td>20.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Notifier-Desktop-App">Notifier Desktop App</a></td><td><a href="https://github.com/TanCodes">Tanmay Barvi</a></td></tr>
 <tr><td>21.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Search-Book">Search Book</a></td><td><a href="https://github.com/abhishekgit03">Abhishek Dasgupta</a></td></tr>
 <tr><td>22.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Web-Server">Simple Web Server</a></td><td><a href="https://github.com/sulavmhrzn">Sulav Maharjan</a></td></tr>
+<tr><td>23.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/FlappyBirdGame">Flappy Bird Game</a></td><td><a href="https://github.com/INNOMIGHT">Vaibhav Shrivastava</a></td></tr>
 </table>
 
 <br>
