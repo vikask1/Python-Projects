@@ -25,11 +25,7 @@ The repository was built with a tree-like structure in mind, it contains collect
 
 <br>
 
-> We believe that Developing projects is more important than just learning theory. ✅
-
-<br>
-
-### Please Follow Our [Contribution Guidelines](CONTRIBUTING.md) Strictly.
+> We believe that Developing projects is more important than just learning theory. ✅ <br> Please Follow Our [Contribution Guidelines](CONTRIBUTING.md) Strictly.
 
 <br>
 
