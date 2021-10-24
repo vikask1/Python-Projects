@@ -52,7 +52,7 @@ Here are the [resources](./resources) to get you started with the fundamentals o
 <th>Name</th>
 <th>Author</th>
 </tr>
-<tr><td>1.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/digital-clock">Digital Clock GUI</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
+<tr><td>1.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Digital-Clock-GUI">Digital Clock GUI</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
 <tr><td>2.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Tic-Tac-Toe">Tic Tac Toe GUI</a></td><td><a href="https://github.com/TanCodes"> Tanmay Barvi</a></td></tr>
 <tr><td>3.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Simple-Quote-Bot">Simple Quote Bot</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
 <tr><td>4.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Windows-Message-Notifier">Windows Desktop Message Notifier GUI</a></td><td><a href="https://github.com/gaurtvin"> Gaurav Pandey</a></td></tr>
@@ -64,15 +64,16 @@ Here are the [resources](./resources) to get you started with the fundamentals o
 <tr><td>1o.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Palindrome-Number">Palindrome Number Checker</a></td><td><a href="https://github.com/sulavmhrzn"> Sulav Maharjan</a></td></tr>
 <tr><td>11.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Password-Hashing">Password Hashing</a></td><td><a href="https://github.com/Mannuel25"> Med Amine Fh </a></td></tr>
 <tr><td>12.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Password-Validator">Password Validator</a></td><td><a href="https://github.com/medaminefh"> Emmanuel Tanimowo </a></td></tr>
-<tr><td>13.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/code-editor">Simple Python Code Editor GUI</a></td><td><a href="https://github.com/edemgold">Edem Gold</a></td></tr>
+<tr><td>13.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Code-Editor-GUI">Simple Python Code Editor GUI</a></td><td><a href="https://github.com/edemgold">Edem Gold</a></td></tr>
 <tr><td>14.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Space-Invaders">Space Invaders GUI</a></td><td><a href="https://github.com/gaurtvin">Gaurav Pandey</a></td></tr>
 <tr><td>15.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Bank-Management-Project">Bank Management System</td><td><a href="https://github.com/abhishekgit03"> Abhishek Dasgupta</a></td></tr>
 <tr><td>16.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Cards-Game">Cards Game</td><td><a href="https://github.com/paiyarohit"> Rohit Paiya</a></td></tr>
-<tr><td>17.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Quizminds">Quizminds GUI</td><td><a href="https://github.com/abhishekgit03"> Abhishek Dasgupta</a></td></tr>
+<tr><td>17.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Quizminds-GUI">Quizminds GUI</td><td><a href="https://github.com/abhishekgit03"> Abhishek Dasgupta</a></td></tr>
 <tr><td>18.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Realcaller">Real Caller GUI</td><td><a href="https://github.com/TanCodes">Tanmay Barvi</a></td></tr>
 <tr><td>19.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Display-Calender">Calender GUI</td><td><a href="https://github.com/adarshgowdaa">A Adarsh</a></td></tr>
 <tr><td>20.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Notifier-Desktop-App">Notifier Desktop App</td><td><a href="https://github.com/TanCodes">Tanmay Barvi</a></td></tr>
-
+<tr><td>21.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Search-Book">Search Book</td><td><a href="https://github.com/abhishekgit03">Abhishek Dasgupta</a></td></tr>
+<tr><td>22.</td><td><a target="_blank" href="https://github.com/gaurtvin/python-projects/tree/master/projects/Web-Server">Simple Web Server</td><td><a href="https://github.com/sulavmhrzn">Sulav Maharjan</a></td></tr>
 </table>
 
 <br>
